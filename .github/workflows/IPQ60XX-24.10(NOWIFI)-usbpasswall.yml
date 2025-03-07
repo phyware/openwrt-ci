@@ -156,7 +156,7 @@ jobs:
         artifacts: ${{ env.FIRMWARE_PATH }}/*
         body: |
           **This is OpenWrt Firmware for ${{ env.FIRMWARE_TAG }}**
-          ### 📒 版本24.10固件(NOWIFI), USB, Paswall
+          ### 📒 版本24.10固件(NOWIFI), USB, Passwall
           - 这是NOWIFI，带NSS, USB, Passwall的6.6内核固件
           - 💻 这是 ${{ env.FIRMWARE_TAG }} 平台使用的 OpenWrt 固件
           - ⚽ 固件源码: ${{ env.REPO_URL }}
