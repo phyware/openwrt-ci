@@ -1,4 +1,4 @@
-name: IPQ60XX-24.10(NOWIFI)
+name: IPQ60XX-24.10(NOWIFI)-USBPASSWALL
 
 on:
   workflow_dispatch:
